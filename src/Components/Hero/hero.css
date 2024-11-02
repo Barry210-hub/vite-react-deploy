@@ -114,17 +114,17 @@ padding-right:4vw;
         padding: 0; /* Remove padding */
         margin: 0; /* Remove margin */
     }
-    .f-exp {
-        font-size: 8vw; /* Larger font for very small screens */
+     .f-exp {
+        font-size: 12vw; /* Larger font for very small screens */
     }
 
     .hand-exp p {
-        font-size: 30vw; /* Large font size for smaller screens */
+        font-size: 37vw; /* Large font size for smaller screens */
     }
     .btn {
-        font-size: 4vw; /* Adjusted button font size */
+        font-size: 7vw; /* Adjusted button font size */
     }
     .btn img {
-        height: 3vw; /* Adjusted button image size */
+        height: 5vw; /* Adjusted button image size */
     }
 }
