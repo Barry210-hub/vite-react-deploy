@@ -21,6 +21,7 @@ const App = () => {
       <Navbar/>
     <Routes>
       <Route path = "/vite-react-deploy" element={ <Shop/> }/>
+      <Route path = "/" element={ <Shop/> }/>
       <Route path = "/mens" element={ <ShopCategory banner={men_banner} category="men" />  }/>
  <Route path = "/womens" element={ <ShopCategory  banner={women_banner} category="women" />  }/>
  <Route path = "/kids" element={ <ShopCategory banner={kid_banner} category="kid" />  }/>
